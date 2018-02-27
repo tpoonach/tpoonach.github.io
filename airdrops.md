@@ -1,3 +1,4 @@
+# My awsome list of airdrops
 
 * Hurify  (HUR) http://telegram.me/HurifyBounty_Bot/?start=527025154
 * TradePlayz  (TPZ) http://vy.tc/eqcg396
