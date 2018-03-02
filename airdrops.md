@@ -1,5 +1,10 @@
 # My awsome list of airdrops
-
+* Gladius https://airdrop.gladius.io?ref=N9FJIFZA2HNHKOYN
+* LEMO invite code：www.lemochain.com/airdrop.html#/?invite=498228
+* Nice looking exchange https://coindump.biz/?ref=5f89
+* (SYNT) 100.00 https://tokensale.syntheticsai.com/ref/f3348614ae2716
+* Havanacoin https://havanaplux.com?ref=ref_70983075178610 join to take part in lotto
+* TrakInvest  (Trak) http://telegram.me/TrakInvestBounty_Bot/?start=527025154  10 TRAKs per friend invited
 * Hurify  (HUR) http://telegram.me/HurifyBounty_Bot/?start=527025154
 * TradePlayz  (TPZ) http://vy.tc/eqcg396
 * http://telegram.me/RxEALBounty_Bot/?start=527025154 … RxEAL  (RXL) 
@@ -11,6 +16,9 @@
 * vuzzbee https://www.vuzzbee.com/z159829fe.html
 * aot http://mycandybag.net/aot/?code=2D9MG39P
 * obrium https://ico.obirum.com/?r=26717 get 100 OBR
+* gamex get coins daily for login https://gamex.co.in?mref=tpoonach
+* swift daily coins https://www.swiftdemand.com/?referred_by=tpoonacha
+
 
 # Coins you get for free 
 
