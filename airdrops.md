@@ -16,9 +16,13 @@
 * vuzzbee https://www.vuzzbee.com/z159829fe.html
 * aot http://mycandybag.net/aot/?code=2D9MG39P
 * obrium https://ico.obirum.com/?r=26717 get 100 OBR
+
+# Daily Free Coins
 * gamex get coins daily for login https://gamex.co.in?mref=tpoonach
 * swift daily coins https://www.swiftdemand.com/?referred_by=tpoonacha
 
+$ Basic income coins
+* MANNA you get as a basic income https://www.mannabase.com/?ref=b7575b2081
 
 # Coins you get for free 
 
@@ -36,3 +40,4 @@
 *	0x8c7bf2d806abd60881c3960cfe96480436b57515	  3.2	Erc20 (DATx)
 *	0x1c80a52e7376ea3867153453acd814582812fec5	  5	 OCoin
 * 0x311c78f3d79bff48531ae865bb339f59212002e8	  20	Erc20 (RC)
+* 0xb8327F32127aFE37a544c52B628653e222a93BaD    100	Erc20 (WZI)
