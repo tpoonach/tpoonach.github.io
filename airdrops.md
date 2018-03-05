@@ -1,4 +1,5 @@
 # My awsome list of airdrops
+* Viola http://telegram.me/ViolaAI_AirdropBot/?start=tpoonach
 * Gladius https://airdrop.gladius.io?ref=N9FJIFZA2HNHKOYN
 * LEMO invite code：www.lemochain.com/airdrop.html#/?invite=498228
 * Nice looking exchange https://coindump.biz/?ref=5f89
