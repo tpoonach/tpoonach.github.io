@@ -1,3 +1,5 @@
+
+
 # My awsome list of airdrops
 * Viola http://telegram.me/ViolaAI_AirdropBot/?start=tpoonach
 * Gladius https://airdrop.gladius.io?ref=N9FJIFZA2HNHKOYN
@@ -42,3 +44,5 @@ $ Basic income coins
 *	0x1c80a52e7376ea3867153453acd814582812fec5	  5	 OCoin
 * 0x311c78f3d79bff48531ae865bb339f59212002e8	  20	Erc20 (RC)
 * 0xb8327F32127aFE37a544c52B628653e222a93BaD    100	Erc20 (WZI)
+
+#### tags #awesome #awesome-list #unicorns #lists #resources
