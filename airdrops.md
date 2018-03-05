@@ -1,4 +1,9 @@
 
+# Awesome Airdrops [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+[<img src="https://cdn.rawgit.com/gilbarbara/logos/e7b1dc2666c3dabe6c1276abd0a767b6ebd6af43/logos/nodejs-icon.svg" align="right" width="70">](https://nodejs.org)
+
+> A curated list of delightful Airdrop [coins](#coins) and [tokens](#tokens).
 
 # My awsome list of airdrops
 * Viola http://telegram.me/ViolaAI_AirdropBot/?start=tpoonach
