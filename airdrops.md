@@ -1,7 +1,6 @@
 
 # Awesome Airdrops [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://cdn.rawgit.com/gilbarbara/logos/e7b1dc2666c3dabe6c1276abd0a767b6ebd6af43/logos/nodejs-icon.svg" align="right" width="70">](https://nodejs.org)
 
 > A curated list of delightful Airdrop [coins](#coins) and [tokens](#tokens).
 
@@ -24,6 +23,17 @@
 * vuzzbee https://www.vuzzbee.com/z159829fe.html
 * aot http://mycandybag.net/aot/?code=2D9MG39P
 * obrium https://ico.obirum.com/?r=26717 get 100 OBR
+* [fan](https://fantokenreferral.kickoffpages.com) 
+Email, Telegram Name, Eth Wallet
+* [refereum](https://refereum.com/?refid=w9bp0mr2kv)
+
+* [ColourCoin](https://ColourCoin.org/328902) 500 for eth address
+
+# Telegram Bots
+* [Exemium](https://exenium.io?utm_source=referral&utm_refid=1OplGQFQypF50f03GJtkr6zxF2t4K35O) decentral exchange get XNT: 0.2 XNTB: 0.8 for signup
+* FishCoin https://t.me/FishcoinBountyBot?start=437a3d85e7594b52b92cd0a9cdd61c01 basic aidrop with bonus coins for more info
+* [Caribbean Pirates](http://telegram.caripirates.io/index.html?rec=3f3f392ee11c032e) Chinese : enter your eth address and join the group https://t.me/CaribbeanPiratesClub and click on the link to get a code to paste to the group
+* [adh](https://adh.one/?r=3F3F392EE11C032E) join channel and group, enter eth and get code to paste to group
 
 # Daily Free Coins
 These you have to login daily to claim
@@ -53,5 +63,9 @@ There are coins I actually got
 * 0x311c78f3d79bff48531ae865bb339f59212002e8	  20	 RC
 * 0xb8327F32127aFE37a544c52B628653e222a93BaD    100	 WZI
 * 0xa701122c1b67220a8B6883D03C8Ad67896B12466    1000 PEW 
+
+# shady
+* [inschain](http://telegram.me/inschain_bot/?start=tpoonach)
+join group, enter eth, dob, email, name and gov id!
 
 #### tags #awesome #awesome-list #unicorns #lists #resources
