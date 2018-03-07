@@ -23,11 +23,11 @@
 * vuzzbee https://www.vuzzbee.com/z159829fe.html
 * aot http://mycandybag.net/aot/?code=2D9MG39P
 * obrium https://ico.obirum.com/?r=26717 get 100 OBR
-* [fan](https://fantokenreferral.kickoffpages.com) 
-Email, Telegram Name, Eth Wallet
+* [fan](https://fantokenreferral.kickoffpages.com?kid=MF2C8) Email, Telegram Name, Eth Wallet
 * [refereum](https://refereum.com/?refid=w9bp0mr2kv)
-
 * [ColourCoin](https://ColourCoin.org/328902) 500 for eth address
+* cloudbounce https://www.cloudbounce.com/dbounce?r=H1qgvYpN6dG
+
 
 # Telegram Bots
 * [Exemium](https://exenium.io?utm_source=referral&utm_refid=1OplGQFQypF50f03GJtkr6zxF2t4K35O) decentral exchange get XNT: 0.2 XNTB: 0.8 for signup
