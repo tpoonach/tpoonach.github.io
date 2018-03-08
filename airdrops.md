@@ -5,6 +5,7 @@
 > A curated list of delightful Airdrop [coins](#coins) and [tokens](#tokens).
 
 # My awsome list of airdrops
+* inschain  http://telegram.me/inschain_bot/?start=tpoonach
 * LAF coin http://laf-coin.ru/?code=QFsk9QfFaz 246 free candies after you joined the group The global storage and file sharing platform based on Blockchain technology
 * Woter https://woter.trade/?mref=8441 30 tokens for signup and telegram, 5 for referral; Decentralized Exchange.
 * moxyone https://airdrops.moxyone.mo.works/sign-up/js8hab
@@ -16,6 +17,7 @@
 * (SYNT) 100.00 https://tokensale.syntheticsai.com/ref/f3348614ae2716
 * Havanacoin https://havanaplux.com?ref=ref_70983075178610 join to take part in lotto
 * TrakInvest  (Trak) http://telegram.me/TrakInvestBounty_Bot/?start=527025154  10 TRAKs per friend invited
+* YourBlock https://t.me/yourblock_bot?start=x6ATzQ8xCYcdQkMsBvXjNH 20 YBK
 * Hurify  (HUR) http://telegram.me/HurifyBounty_Bot/?start=527025154
 * TradePlayz  (TPZ) http://vy.tc/eqcg396
 * http://telegram.me/RxEALBounty_Bot/?start=527025154 … RxEAL  (RXL) 
@@ -31,7 +33,17 @@
 * [refereum](https://refereum.com/?refid=w9bp0mr2kv)
 * [ColourCoin](https://ColourCoin.org/328902) 500 for eth address
 * cloudbounce https://www.cloudbounce.com/dbounce?r=H1qgvYpN6dG
+* classycoin 829013187
 
+# Candy Bag
+One of the easist ways to get coin you sign up on the website and it manages your coin 
+* CFC 188 http://mycandybag.net/cfc/?code=AK5C34LM
+* CST 33 http://www.mycandybag.net/?code=MRTBR9CK
+* AOT 168 http://mycandybag.net/aot/?code=2D9MG39P
+* AAT 88 http://mycandybag.net/aat/?code=LJJJN2TG
+* WMT 88 http://mycandybag.net/wmt/?code=MNCCC7ID
+* BOE 18 http://mycandybag.net/boe/?code=EQFN16A3
+* GET 18 http://mycandybag.net/get/?code=ENLMA2KT 
 
 # Telegram Bots
 * [Exemium](https://exenium.io?utm_source=referral&utm_refid=1OplGQFQypF50f03GJtkr6zxF2t4K35O) decentral exchange get XNT: 0.2 XNTB: 0.8 for signup
