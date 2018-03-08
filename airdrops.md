@@ -5,6 +5,7 @@
 > A curated list of delightful Airdrop [coins](#coins) and [tokens](#tokens).
 
 # My awsome list of airdrops
+
 * inschain  http://telegram.me/inschain_bot/?start=tpoonach
 * LAF coin http://laf-coin.ru/?code=QFsk9QfFaz 246 free candies after you joined the group The global storage and file sharing platform based on Blockchain technology
 * Woter https://woter.trade/?mref=8441 30 tokens for signup and telegram, 5 for referral; Decentralized Exchange.
@@ -34,6 +35,10 @@
 * [ColourCoin](https://ColourCoin.org/328902) 500 for eth address
 * cloudbounce https://www.cloudbounce.com/dbounce?r=H1qgvYpN6dG
 * classycoin 829013187
+* gluon https://www.gluon.com/tokensale/gluid/256/
+* invox https://airdrops.invox.mo.works/sign-up/3xpuz6
+* ukit https://token.ukit.com?r=f8963aec83637b5b
+
 
 # Candy Bag
 One of the easist ways to get coin you sign up on the website and it manages your coin 
@@ -79,6 +84,9 @@ There are coins I actually got
 * 0x311c78f3d79bff48531ae865bb339f59212002e8	  20	 RC
 * 0xb8327F32127aFE37a544c52B628653e222a93BaD    100	 WZI
 * 0xa701122c1b67220a8B6883D03C8Ad67896B12466    1000 PEW 
+
+# Referalls
+* i5quant exchange https://www.5iquant.org/user/iqtexSignup?ref=8fed799c17dc998a8f0101578a1c302b
 
 # shady
 * [inschain](http://telegram.me/inschain_bot/?start=tpoonach)
