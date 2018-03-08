@@ -5,6 +5,10 @@
 > A curated list of delightful Airdrop [coins](#coins) and [tokens](#tokens).
 
 # My awsome list of airdrops
+* LAF coin http://laf-coin.ru/?code=QFsk9QfFaz 246 free candies after you joined the group The global storage and file sharing platform based on Blockchain technology
+* Woter https://woter.trade/?mref=8441 30 tokens for signup and telegram, 5 for referral; Decentralized Exchange.
+* moxyone https://airdrops.moxyone.mo.works/sign-up/js8hab
+* ETK https://ethereumkey.org/registration.php?r=tpoonach 150 ETK
 * Viola http://telegram.me/ViolaAI_AirdropBot/?start=tpoonach
 * Gladius https://airdrop.gladius.io?ref=N9FJIFZA2HNHKOYN
 * LEMO invite code：www.lemochain.com/airdrop.html#/?invite=498228
