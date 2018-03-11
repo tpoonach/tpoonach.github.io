@@ -1,5 +1,5 @@
 Forked from 
-https://github.com/tpoonach/awsome-airdops/blob/master/README.md
+https://github.com/tpoonach/awsome-airdops/blob/master/README.md see the list there for the items with no referal link for forking
 
 
 # Awesome Airdrops [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -21,7 +21,9 @@ https://github.com/tpoonach/awsome-airdops/blob/master/README.md
 
 
 # Airdrops
-
+* [AILink](http://alidrop.me/index-en.html?p=319178)
+* [Gift](https://gift.one/i/34760267533)
+* [openfuture](http://vy.tc/ev7Od64)
 * [Signals](https://signals.network/join/A4451C)
 * [acxnetwork](forms.acxnetwork.com/airdrop?referral=49Jv68)
 * [lightcash.io](http://cont.st/fqoCwTwMJ)
@@ -59,6 +61,7 @@ https://github.com/tpoonach/awsome-airdops/blob/master/README.md
 * [gluon](https://www.gluon.com/tokensale/gluid/256/)
 * [invox](https://airdrops.invox.mo.works/sign-up/3xpuz6)
 * [ukit](https://token.ukit.com?r=f8963aec83637b5b)
+* [wcex](https://ico.wcex.co/?ref=cSQZO3u)
 ## Telegram Only 
 * [DACC](http://referral.dacc.co/7PaXsRv6) get 20 coins for telegram join
 * [InsuranceChain](http://t.me/insurchainairdropbot?start=ayxaDKMa) 100 Telegram.  100 referral.
