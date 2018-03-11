@@ -21,6 +21,10 @@ https://github.com/tpoonach/awsome-airdops/blob/master/README.md see the list th
 
 
 # Airdrops
+
+* [ORU](https://www.orumarketplace.com/) 50.00 ORU for registration. use my code TPO1865 and get 300k
+* [Gleam](https://wn.nr/3xSVj3)
+* [Nauticus](https://nauticus.io/ref/ffcb07e2040c01c212250ebce4836e0b5991977d5ded0f7fc7c5f9d58df1de77)
 * [AILink](http://alidrop.me/index-en.html?p=319178)
 * [Gift](https://gift.one/i/34760267533)
 * [openfuture](http://vy.tc/ev7Od64)
