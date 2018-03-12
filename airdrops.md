@@ -26,6 +26,8 @@ https://github.com/tpoonach/awsome-airdops/blob/master/README.md see the list th
 
 # Airdrops
 
+* [satoshi](https://goo.gl/Y2TUDB) gambling game
+* [CORL](https://www.corl.io?ref=encRpqOV4k)
 * [CIBUS](https://tokensale.cibus.world/signup.php?ref=tpoonach)
 * [OWNDATA](https://owndata.network/register?ref_code=CUTRHV3SU9V5)
 * [zonto](https://zonto.world/z132189)
@@ -149,6 +151,13 @@ There are coins I actually got
 # Referals
 * [i5quant exchange](https://www.5iquant.org/user/iqtexSignup?ref=8fed799c17dc998a8f0101578a1c302b)
 * [MAXDATA](https://airdrop.maxdata.io/?kid=MFE99)
+* [AltCoin.io](https://www.altcoin.io?kid=MGQSH) exchange
+* [CryptoExpress](https://wn.nr/yhNgZt) exchange
+
+## Bounties
+These do not pay out at once
+* [BountyHealth](https://bountyhealthnexus.herokuapp.com/register?invite_code=0d25ca63-12c9-4ec8-b00c-56c11c556c97)
+* [CCBT](http://candy.cccbt.org/?code=d77ffacccca706f0)
 
 # My Public Wallets
 * ETH 0xeC5D1FDce9Fb1651a20fAc9fCCA72bD5EE8F3EBd
