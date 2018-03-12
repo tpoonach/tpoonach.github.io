@@ -13,6 +13,10 @@ https://github.com/tpoonach/awsome-airdops/blob/master/README.md see the list th
 * [AirdropAlerts](https://airdropalert.com/) has a nice page that lets you find ones you have not done yet
 * [MyCandyBag](http://mycandybag.net) has a nice easy list of a selected few coins, see the list of them further down.
 * [Coinairdrops](https://coinairdrops.com/) has some more
+* [TokenFree](http://token-free.com)
+* [FreeBitcoin](http://freebitcoin.directory/)
+* [BestAirDrops](https://bestairdrops.com/)
+* [BountyHive](https://bountyhive.io) has a great bounty subscription system
 
 ## Telegram Channels 
 * [Airdrop alert channel](https://t.me/OFFICIALairdropalert)
@@ -21,6 +25,13 @@ https://github.com/tpoonach/awsome-airdops/blob/master/README.md see the list th
 
 
 # Airdrops
+* [PHNX](https://phnxtoken.com/?r=410)
+* [GPN](https://gpncoin.com/referral/tpoonach/) GAMBLING PORN NETWORK
+* [Eventum](alpha.eventum.network/?ref=9PpN5ER8)
+* [SMOKE](https://wn.nr/C5NgYd)
+* [ETU](https://etu.link/i/?r=dna7)
+* [tokengo](https://tokengoplatform.com/bonus/0xc1b5d58d99939d667eddf4aa3532a0420b460a2c)
+* [oju](http://oju.io/t/refer/LCqO3ooMR86)
 * [Crowdvilla](http://airdropalert.com/cms/join/Crowdvilla/23b6b956-b906-3b3e-93e9-294a5ba8b98f)
 * [PRONIX](https://www.pronixcoin.com/register/tpoonach)
 * [Lemonaid](https://lemonadepreneur.com/?mref=32)
@@ -47,6 +58,7 @@ https://github.com/tpoonach/awsome-airdops/blob/master/README.md see the list th
 * [SYNT](https://tokensale.syntheticsai.com/ref/f3348614ae2716) (SYNT) 100.00
 * [Havanacoin](https://havanaplux.com?ref=ref_70983075178610) join to take part in lotto
 * [TrakInvest](http://telegram.me/TrakInvestBounty_Bot/?start=527025154 ) 10 TRAKs per friend invited
+* [friendz](https://steward.friendz.io/go?r=MjQ3MDA2)
 * [YourBlock](https://t.me/yourblock_bot?start=x6ATzQ8xCYcdQkMsBvXjNH) get 20 YBK
 * [Hurify](http://telegram.me/HurifyBounty_Bot/?start=527025154) (HUR)
 * [TradePlayz](http://vy.tc/eqcg396) (TPZ)
@@ -152,5 +164,8 @@ join group, enter eth, dob, email, name and gov id!
 * Send 0 ETH to [0xBeBfA8824924C3da2844aa292EaB26F6126D1A15](https://etherscan.io/address/0xbebfa8824924c3da2844aa292eab26f6126d1a15) get  500 BTCT  
 This never sent any money out.
 
+# Closed
+* [Thrive](https://reg.thrivelabs.io/register?ref=21a9a0965d4318b2)
+* [IoTEX](https://t.me/IoTeXBountyBot)
 
 #### tags #awesome #awesome-list #unicorns #lists #resources
