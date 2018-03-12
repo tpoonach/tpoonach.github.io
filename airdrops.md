@@ -1,5 +1,4 @@
-Forked from 
-https://github.com/tpoonach/awsome-airdops/blob/master/README.md see the list there for the items with no referal link for forking
+Forked from  [Ref Free Awesome Airdrops](https://tpoonach.github.io/awesome-airdrops/) see the list there for the items with no referal link for forking
 
 
 # Awesome Airdrops [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
