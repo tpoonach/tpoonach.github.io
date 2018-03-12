@@ -25,6 +25,10 @@ https://github.com/tpoonach/awsome-airdops/blob/master/README.md see the list th
 
 
 # Airdrops
+
+* [CIBUS](https://tokensale.cibus.world/signup.php?ref=tpoonach)
+* [OWNDATA](https://owndata.network/register?ref_code=CUTRHV3SU9V5)
+* [zonto](https://zonto.world/z132189)
 * [PHNX](https://phnxtoken.com/?r=410)
 * [GPN](https://gpncoin.com/referral/tpoonach/) GAMBLING PORN NETWORK
 * [Eventum](alpha.eventum.network/?ref=9PpN5ER8)
@@ -80,6 +84,10 @@ https://github.com/tpoonach/awsome-airdops/blob/master/README.md see the list th
 * [invox](https://airdrops.invox.mo.works/sign-up/3xpuz6)
 * [ukit](https://token.ukit.com?r=f8963aec83637b5b)
 * [wcex](https://ico.wcex.co/?ref=cSQZO3u)
+
+## Bounties 
+* [drivr](https://gleam.io/fiNV5/drivr-network-referral-competition-earn-dvr-tokens)
+
 ## Telegram Only 
 * [DACC](http://referral.dacc.co/7PaXsRv6) get 20 coins for telegram join
 * [InsuranceChain](http://t.me/insurchainairdropbot?start=ayxaDKMa) 100 Telegram.  100 referral.
