@@ -24,7 +24,8 @@ Forked from  [Ref Free Awesome Airdrops](https://tpoonach.github.io/awesome-aird
 
 
 # Airdrops
-
+* [bonum](http://bonumchain.com/airdrop)
+* [lino](https://drop.lino.network?code=GoA6zpYM) 15 for signup
 * [satoshi](https://goo.gl/Y2TUDB) gambling game
 * [CORL](https://www.corl.io?ref=encRpqOV4k)
 * [CIBUS](https://tokensale.cibus.world/signup.php?ref=tpoonach)
