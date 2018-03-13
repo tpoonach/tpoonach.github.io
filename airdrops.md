@@ -24,6 +24,7 @@ Forked from  [Ref Free Awesome Airdrops](https://tpoonach.github.io/awesome-aird
 
 
 # Airdrops
+* [bitron](https://www.bitron.io/user/home/register?ref=8c7de9c7d83fdf524d7d64fee36294d720dd09d7)
 * [bonum](http://bonumchain.com/airdrop)
 * [lino](https://drop.lino.network?code=GoA6zpYM) 15 for signup
 * [satoshi](https://goo.gl/Y2TUDB) gambling game
@@ -87,8 +88,6 @@ Forked from  [Ref Free Awesome Airdrops](https://tpoonach.github.io/awesome-aird
 * [ukit](https://token.ukit.com?r=f8963aec83637b5b)
 * [wcex](https://ico.wcex.co/?ref=cSQZO3u)
 
-## Bounties 
-* [drivr](https://gleam.io/fiNV5/drivr-network-referral-competition-earn-dvr-tokens)
 
 ## Telegram Only 
 * [DACC](http://referral.dacc.co/7PaXsRv6) get 20 coins for telegram join
@@ -148,16 +147,20 @@ There are coins I actually got
 * 0xa701122c1b67220a8B6883D03C8Ad67896B12466   1000 PEW 
 * 0x5fa1ea99eb3acc1f9e84cf28fde6431b8fdc9dc0   500  UAT UselessAirdroppedToken
 
-# Referals
-* [i5quant exchange](https://www.5iquant.org/user/iqtexSignup?ref=8fed799c17dc998a8f0101578a1c302b)
-* [MAXDATA](https://airdrop.maxdata.io/?kid=MFE99)
-* [AltCoin.io](https://www.altcoin.io?kid=MGQSH) exchange
-* [CryptoExpress](https://wn.nr/yhNgZt) exchange
-
 ## Bounties
 These do not pay out at once
 * [BountyHealth](https://bountyhealthnexus.herokuapp.com/register?invite_code=0d25ca63-12c9-4ec8-b00c-56c11c556c97)
 * [CCBT](http://candy.cccbt.org/?code=d77ffacccca706f0)
+* [drivr](https://gleam.io/fiNV5/drivr-network-referral-competition-earn-dvr-tokens)
+
+## Referals
+No free coin on signup, only on invite
+* [i5quant exchange](https://www.5iquant.org/user/iqtexSignup?ref=8fed799c17dc998a8f0101578a1c302b)
+* [MAXDATA](https://airdrop.maxdata.io/?kid=MFE99)
+* [AltCoin.io](https://www.altcoin.io?kid=MGQSH) exchange
+* [CryptoExpress](https://wn.nr/yhNgZt) exchange
+* [Thug](https://t.me/THUGAirDropBot?start=tpoonach)
+* [ethereumkey](https://ethereumkey.org/registration.php?r=tpoonach)
 
 # My Public Wallets
 * ETH 0xeC5D1FDce9Fb1651a20fAc9fCCA72bD5EE8F3EBd
@@ -184,5 +187,10 @@ This never sent any money out.
 # Closed
 * [Thrive](https://reg.thrivelabs.io/register?ref=21a9a0965d4318b2)
 * [IoTEX](https://t.me/IoTeXBountyBot)
+
+# Need Facebook
+I dont use facebook.
+* [Musards round 2](https://musards.org/airdrop-round-2/)
+
 
 #### tags #awesome #awesome-list #unicorns #lists #resources
