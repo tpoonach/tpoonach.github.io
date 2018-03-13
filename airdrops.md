@@ -16,14 +16,17 @@ Forked from  [Ref Free Awesome Airdrops](https://tpoonach.github.io/awesome-aird
 * [FreeBitcoin](http://freebitcoin.directory/)
 * [BestAirDrops](https://bestairdrops.com/)
 * [BountyHive](https://bountyhive.io) has a great bounty subscription system
+* [AdropAssociates](https://twitter.com/AdropAssociates) has some well sorted lists
 
 ## Telegram Channels 
 * [Airdrop alert channel](https://t.me/OFFICIALairdropalert)
 * [AirDropCryptocurrency](https://t.me/airdropcryptocurrency)
 * [CryptoAirdrops](https://t.me/crypto_airdrops)
-
+* [FreeAirDrop](https://t.me/freeairdrop)
 
 # Airdrops
+
+* [ESENTH](http://vy.tc/evgv970) 201 tokens for telegram and twitter
 * [bitron](https://www.bitron.io/user/home/register?ref=8c7de9c7d83fdf524d7d64fee36294d720dd09d7)
 * [bonum](http://bonumchain.com/airdrop)
 * [lino](https://drop.lino.network?code=GoA6zpYM) 15 for signup
@@ -92,6 +95,8 @@ Forked from  [Ref Free Awesome Airdrops](https://tpoonach.github.io/awesome-aird
 ## Telegram Only 
 * [DACC](http://referral.dacc.co/7PaXsRv6) get 20 coins for telegram join
 * [InsuranceChain](http://t.me/insurchainairdropbot?start=ayxaDKMa) 100 Telegram.  100 referral.
+* [KWATT](https://goo.gl/Nuh8TF) 10 for telegram and email
+* [GMCHAIN](http://www.gmchain.me/public/?token=86870) 68 for signup on telegram and per ref.
 
 
 # Candy Bag
@@ -152,6 +157,7 @@ These do not pay out at once
 * [BountyHealth](https://bountyhealthnexus.herokuapp.com/register?invite_code=0d25ca63-12c9-4ec8-b00c-56c11c556c97)
 * [CCBT](http://candy.cccbt.org/?code=d77ffacccca706f0)
 * [drivr](https://gleam.io/fiNV5/drivr-network-referral-competition-earn-dvr-tokens)
+* [plaza](www.plaza.systems/whitelist/?ref_id=tpoonach)
 
 ## Referals
 No free coin on signup, only on invite
@@ -179,6 +185,7 @@ No free coin on signup, only on invite
 * [inschain](http://telegram.me/inschain_bot/?start=tpoonach)
 join group, enter eth, dob, email, name and gov id!
 * [investfeed](https://www.investfeed.com/tpoonach?rec=38db9ce)
+* [EBTS](https://ebts.io/)
 
 ## Not recommended
 * Send 0 ETH to [0xBeBfA8824924C3da2844aa292EaB26F6126D1A15](https://etherscan.io/address/0xbebfa8824924c3da2844aa292eab26f6126d1a15) get  500 BTCT  
