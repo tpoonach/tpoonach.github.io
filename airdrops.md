@@ -25,6 +25,7 @@ Forked from  [Ref Free Awesome Airdrops](https://tpoonach.github.io/awesome-aird
 * [FreeAirDrop](https://t.me/freeairdrop)
 
 # Airdrops
+* [guess](https://www.google.com/url?q=https://goo.gl/v5KLa2&sa=D&ust=1520943325018000&usg=AFQjCNFjObCpGAUGXV4RxoUe-_Hq-2EYCw)
 * [ebitcoin](https://airdrops.ebitcoin.mo.works/sign-up/0fyoho) 1 stake for signup and telegram
 * [ESENTH](http://vy.tc/evgv970) 201 tokens for telegram and twitter
 * [bitron](https://www.bitron.io/user/home/register?ref=8c7de9c7d83fdf524d7d64fee36294d720dd09d7)
@@ -190,6 +191,9 @@ join group, enter eth, dob, email, name and gov id!
 ## Not recommended
 * Send 0 ETH to [0xBeBfA8824924C3da2844aa292EaB26F6126D1A15](https://etherscan.io/address/0xbebfa8824924c3da2844aa292eab26f6126d1a15) get  500 BTCT  
 This never sent any money out.
+## Want money 
+These are asking you for money to get the coin 
+* Ruzzy Token Airdrop Campaign (350 Ruz)
 
 # Closed
 * [Thrive](https://reg.thrivelabs.io/register?ref=21a9a0965d4318b2)
