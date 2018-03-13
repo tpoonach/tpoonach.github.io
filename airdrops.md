@@ -25,6 +25,7 @@ Forked from  [Ref Free Awesome Airdrops](https://tpoonach.github.io/awesome-aird
 * [FreeAirDrop](https://t.me/freeairdrop)
 
 # Airdrops
+* Commando [CMD](http://commado.trade/register.php?referer=tpoonach) get 10
 * [guess](https://www.google.com/url?q=https://goo.gl/v5KLa2&sa=D&ust=1520943325018000&usg=AFQjCNFjObCpGAUGXV4RxoUe-_Hq-2EYCw)
 * [ebitcoin](https://airdrops.ebitcoin.mo.works/sign-up/0fyoho) 1 stake for signup and telegram
 * [ESENTH](http://vy.tc/evgv970) 201 tokens for telegram and twitter
