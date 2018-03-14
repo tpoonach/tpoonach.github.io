@@ -25,6 +25,7 @@ Forked from  [Ref Free Awesome Airdrops](https://tpoonach.github.io/awesome-aird
 * [FreeAirDrop](https://t.me/freeairdrop)
 
 # Airdrops
+* [Shivom](http://airdropalert.com/cms/join/Shivom/7858fef8-19d6-3d01-8646-0b695d1dc268)
 * Commando [CMD](http://commado.trade/register.php?referer=tpoonach) get 10
 * [guess](https://www.google.com/url?q=https://goo.gl/v5KLa2&sa=D&ust=1520943325018000&usg=AFQjCNFjObCpGAUGXV4RxoUe-_Hq-2EYCw)
 * [ebitcoin](https://airdrops.ebitcoin.mo.works/sign-up/0fyoho) 1 stake for signup and telegram
@@ -188,6 +189,7 @@ No free coin on signup, only on invite
 join group, enter eth, dob, email, name and gov id!
 * [investfeed](https://www.investfeed.com/tpoonach?rec=38db9ce)
 * [EBTS](https://ebts.io/)
+* [Cappasity](https://t.me/AffiliateBot?start=YXV0aDB8NWE5M2U5NTVjMjI1MmQzNGE5Y2EwNjlh)
 
 ## Not recommended
 * Send 0 ETH to [0xBeBfA8824924C3da2844aa292EaB26F6126D1A15](https://etherscan.io/address/0xbebfa8824924c3da2844aa292eab26f6126d1a15) get  500 BTCT  
