@@ -24,6 +24,10 @@ Forked from  [Ref Free Awesome Airdrops](https://tpoonach.github.io/awesome-aird
 * [CryptoAirdrops](https://t.me/crypto_airdrops)
 * [FreeAirDrop](https://t.me/freeairdrop)
 
+# Social Media sites
+* [Onstellar](http://www.onstellar.com?referral=if3)
+* [zonto](https://zonto.world/z132189)
+
 # Airdrops
 * [Shivom](http://airdropalert.com/cms/join/Shivom/7858fef8-19d6-3d01-8646-0b695d1dc268)
 * Commando [CMD](http://commado.trade/register.php?referer=tpoonach) get 10
